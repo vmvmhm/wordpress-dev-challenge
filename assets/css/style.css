@@ -1,0 +1,12 @@
+.post_link.column-post_link{
+font-weight: bold;
+}
+
+.status.column-status{
+	font-weight: bold;
+	color: orange;
+}
+
+.link.column-link{
+color: black;
+}

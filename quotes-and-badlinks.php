@@ -7,17 +7,17 @@
  * This file is responsible for starting the plugin using the main plugin class file.
  *
  * @since 0.0.1
- * @package Plugin_Name
+ * @package Create Author Quotes
  *
  * @wordpress-plugin
- * Plugin Name:     Plugin Name
- * Description:     This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:         0.0.1
- * Author:          Your Name
- * Author URI:      https://www.example.com
+ * Plugin Name:     Create Author Quotes / BadLinks Scanner
+ * Description:     Create Author Quotes with shortcode and BadLinks Scanner
+ * Version:         1.0
+ * Author:          Víctor Valera
+ * Author URI:      weremote.net
  * License:         GPL-2.0+
  * License URI:     http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:     plugin-name
+ * Text Domain:     create-author-quotes
  * Domain Path:     /lang
  */
 
