@@ -13,9 +13,9 @@ function show_author_quotes($atts, $content = null) {
 	$content = do_shortcode($content);
 
 	if ($post_id_quotes["post_quote_id"] == "") {
-		$content = get_post_meta(get_the_id(), 'second_content', true);
+		$content = get_post_meta(get_the_id(), 'author_quotes_post_content', true);
 	}else{
-		$content = get_post_meta($post_id_quotes["post_quote_id"], 'second_content', true);
+		$content = get_post_meta($post_id_quotes["post_quote_id"], 'author_quotes_post_content', true);
 	}
 		return $content;
 }

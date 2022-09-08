@@ -56,8 +56,6 @@ function getAllBadLinksWithPostId(){
     return $httpCode;         
   }
 
-
-
 // Plugin menu callback function
 function BadLinks_list_init()
 {
