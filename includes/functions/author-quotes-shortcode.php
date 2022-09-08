@@ -1,4 +1,8 @@
 <?php 
+if ( ! defined('ABSPATH') ) {
+    die('Direct access not permitted.');
+}
+
 
 function show_author_quotes($atts, $content = null) {
     $default = array(

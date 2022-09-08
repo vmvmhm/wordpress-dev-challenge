@@ -1,5 +1,9 @@
 <?php 
 
+if ( ! defined('ABSPATH') ) {
+    die('Direct access not permitted.');
+}
+
 // Adding menu
 function my_add_menu_items(){
       add_menu_page('BadLinks Scanner', 'BadLinks Scanner', 'activate_plugins', 'BadLinks_List_Table', 'BadLinks_list_init');
