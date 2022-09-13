@@ -1,13 +1,7 @@
-<p align="center">
-  <a href='https://weremote.net'>
-    <img src="https://weremote.net/wp-content/uploads/2021/04/Logo-WR.svg" width="300" />
-  </a>
-</p>
-<br />
+## Requirement
+1.- I have a project built with Elementor and we have multiple post authors who just need to add citations to the articles that already exist.
+2.- There is a project whose posts have multiple bad links within the post_content, so it is necessary to check and list which links generate problems and in which post they were detected.
 
-
-## Descripción
-Desafios descritos en: (https://mcontigo.notion.site/Instrucciones-prueba-WordPress-0ab955afeefa428c9b25b74c221f2f46)
 
 ## --Author Quotes-- 
   ## Shortcode -> [mc-citacion] / [mc-citacion post_quote_id = "POST_ID"]
